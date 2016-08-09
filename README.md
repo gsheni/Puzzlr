@@ -1,4 +1,10 @@
-# Puzzlr
-Please see Puzzlr-Android to install the Android app or directly install puzzlr.apk to an Android phone. 
-Please see Puzzlr-Backend to install the MongoDB database locally or use the already install heroku app located at http://puzzlr-backend.herokuapp.com/
-Note, a Amazon AWS Simple Storage Server (S3) is already running with the bucket name puzzlr-images. 
+# Puzzlr-Android
+
+This is the Android app for the Puzzlr application Grant McGovern, Gaurav Sheni, Teddy Beachley, and Brad Naumann built for our CSC331 Software Engineering class at WFU. \
+
+Setup:
+=======
+
+You must first have Android Studio along with the Android SDK 23, as well as Android NDK.
+
+Once you've installed the necessary components, simply open the root Puzzlr in Android Studio
